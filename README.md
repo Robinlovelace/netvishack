@@ -1,4 +1,4 @@
-# Network visualisation hackathon
+# Transport network visualisation hackathon
 
 
 # Introduction
@@ -6,7 +6,14 @@
 This will be an informal hackathon on generating, modelling and
 modifying geographic representations of transport networks.
 
-The hackathon will be held on TBC from TBC to TBC at the LIDA.
+The hackathon will be held on Thursday 19th September (TBC) from 11:00
+to 17:00.
+
+# Aim
+
+The aim of the hackathon is to bring people working on and with an
+interest in visualising transport networks together to develop new and
+evolvingideas, techniques and tools.
 
 # Agenda
 
@@ -41,7 +48,7 @@ We will use existing input datasets including:
 Although these datasets are available nationally we will provide subsets
 of them for ease of use:
 
-- Small area (e.g. covering ATI and direct surroundings)
+- Small area (e.g. covering LIDA and direct surroundings)
 - Medium area (e.g. covering York)
 - Large area (e.g. covering Yorkshire and the Humber)
 
