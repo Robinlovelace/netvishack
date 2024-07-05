@@ -1,14 +1,19 @@
-Event: LIDA Visualisation Hackathon 2024
+## LIDA Visualisation Hackathon 2024
 
 Title: Visualisation of Transport Network Hackathon
 
 Organiser: LIDA Visualisation Programme
 
 Date: Thursday 3rd October 2024
+
+Time: 11:00-17:00
+
 Venue: TBC
+
 Event type: In-person Hackathon
 
 Teams: x * 4-5 people
+
 Mentors: At least two confirmed. Dr Robin Lovelace (Institute for Transport Studies) and Dr Layik Hama (School of Comptuing)
 
 Description:
@@ -19,11 +24,14 @@ Attendance is free and open to all, but registration is required. Please registe
 
 ## Programme
 
-The event will be split into 2 parts: demo of existing tools plus sharing of ideas and the hackathon itself. The rough timings will be as follows (these can be adjusted on the day):
-- An hour of demos and sharing of ideas
-- Lunch
-- Hackathon
-- Presentations and discussion
+The event will be split into two parts: demo of existing tools plus sharing of ideas and the hackathon itself. The rough timings will be as follows (these can be adjusted on the day):
+
+| Activity                        | Duration       |
+|---------------------------------|----------------|
+| Demos and sharing of ideas      | 1 hour         |
+| Lunch                           | 30 minutes     |
+| Hackathon                       | 3-4 hours      |
+| Presentations and discussion    | 30 minutes     |
 
 Lots of food and coffee will be provided!
 
