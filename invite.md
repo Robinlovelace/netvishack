@@ -4,7 +4,7 @@ Title: Visualisation of Transport Network Hackathon
 
 Organiser: LIDA Visualisation Programme
 
-Date: Thursday 19th September 2024
+Date: Thursday 3rd October 2024
 Venue: TBC
 Event type: In-person Hackathon
 
