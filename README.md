@@ -1,4 +1,4 @@
-# Transport network visualisation hackathon
+# Visualisation of Transport Network Hackathon
 
 
 # Introduction
@@ -12,8 +12,7 @@ to 17:00.
 # Aim
 
 The aim of the hackathon is to bring people working on and with an
-interest in visualising transport networks together to develop new and
-evolvingideas, techniques and tools.
+interest in visualising transport networks together to develop new and evolvingideas, techniques and tools.
 
 # Agenda
 
@@ -45,8 +44,7 @@ We will use existing input datasets including:
 - Data from network planning tools, PCT and Network Planning Tool for
   Scotland
 
-Although these datasets are available nationally we will provide subsets
-of them for ease of use:
+Although these datasets are available nationally we will provide subsets for ease of use:
 
 - Small area (e.g. covering LIDA and direct surroundings)
 - Medium area (e.g. covering York)
