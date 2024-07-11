@@ -12,7 +12,9 @@ Venue: TBC
 
 Event type: In-person Hackathon
 
-Teams: x * 4-5 people
+Teams: x * 4 people
+
+Maximum number of participants: 24
 
 Mentors: At least two confirmed. Dr Robin Lovelace (Institute for Transport Studies) and Dr Layik Hama (School of Comptuing)
 
