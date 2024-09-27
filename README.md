@@ -107,7 +107,21 @@ The pitches will be judged based on the following criteria:
 
 The judges will be:
 
-- Will Deakin (Network Rail,
-- Robin Lovelace (University of Leeds Institution for Transport Studies,
-  Active Travel England)
-- Layik Hama (University of Leeds School of Computer Science)
+- Will Deakin (Network Rail)
+- Robin Lovelace (University of Leeds, Institution for Transport
+  Studies, Active Travel England)
+- Layik Hama (University of Leeds, School of Computer Science)
+
+# Prerequisites
+
+We expect you to:
+
+1.  bring your own machines
+2.  have installed either “Python and Jupyter” or “R and Rmarkdown”. For
+    better results/success it would be great to have `sf` in R and
+    `geopandas` in Python
+
+To cover the above, the recommended reading book is
+[`Geocomputation with R`](https://r.geocompx.org/) and
+[`Geocomputation with Python`](https://py.geocompx.org/) which we will
+encourage attendees to have a look at.
