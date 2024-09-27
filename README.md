@@ -21,19 +21,32 @@ The event will be split into 2 parts: demo of existing tools plus
 sharing of ideas and the hackathon itself. The rough timings will be as
 follows (these can be adjusted on the day):
 
-- 11:00 - 12:00: Demo of existing tools and sharing of ideas
+- 11:00 - 12:30: Demo of existing tools and sharing of ideas
 
-  - 11:00 - 11:15: Demo of `parenx` Python package for network
-    simplification (Will Deakin)
-  - 11:15 - 11:30: Demo 2
-  - 11:30 - 11:45: Demo 3
-  - 11:45 - 12:00: Discussion of ideas for the hackathon
+  - 11:00 - 11:15: Introduction and welcome (Robin Lovelace)
+  - 11:15 - 11:25: Demo of `parenx` package for network simplification
+    and visualisation of networks with Python (Will Deakin)
+  - 11:25 - 11:35: Demo of reproducible traffic flow visualisation with
+    R (Juan Pablo Zamora Fonseca)
+  - 11:35 - 11:45: Demonstration of ‘core network’ generation and
+    visualisation in the Network Planning Tool (Zhao Wang)
+  - 11:45 - 11:55: Demonstration of visualisation with MapLibre, with
+    reference to `od2net` and the Network Planning Tool for Scotland
+    (Robin Lovelace)
+  - 11:55 - 12:00: Introduction to TGVE and the hackathon (Layik Hama)
+  - 12:00 - 12:15: Q&A of ideas for the hackathon
 
-- 12:00 - 13:00: Lunch
+- 12:15 - 13:00: Lunch and networking
 
 - 13:00 - 16:00: Hackathon
 
+  - At around 15:00 we will ask teams which teams want to present and
+    take a break
+
 - 16:00 - 17:00: Presentations and discussion
+
+  - 16:00 - 16:40: Presentations
+  - 16:40 - 17:00: Discussion and wrap-up
 
 # Input datasets
 
@@ -52,6 +65,18 @@ of them for ease of use:
 - Medium area (e.g. covering York)
 - Large area (e.g. covering Yorkshire and the Humber)
 
+# Links to tools and reproducible examples
+
+- [parenx](https://github.com/anisotropi4/parenx)
+
+# Hack ideas
+
+- Comparing network simplification tools to support visualisation of
+  networks
+  - For example `parenx` vs `spgeo`
+- Visualising traffic volumes
+- Visualising traffic speeds and other attributes
+
 # Outcomes
 
 The hackathon will be an opportunity to develop new tools and ideas for
@@ -66,3 +91,23 @@ collaboration between researchers and practitioners in the field.
 - Ideas for future work
   - How the tools can be used in policy
   - Research directions
+
+## Pitches
+
+Each team will be given the opportunity to present, we will aim to have
+a maximum of 10 presentations.
+
+# Assessment criteria
+
+The pitches will be judged based on the following criteria:
+
+- Reproducibility
+- Attractiveness
+- Usefulness
+
+The judges will be:
+
+- Will Deakin (Network Rail,
+- Robin Lovelace (University of Leeds Institution for Transport Studies,
+  Active Travel England)
+- Layik Hama (University of Leeds School of Computer Science)
