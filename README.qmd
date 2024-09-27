@@ -22,7 +22,7 @@ The rough timings will be as follows (these can be adjusted on the day):
 * 11:00 - 12:30: Demo of existing tools and sharing of ideas
   * 11:00 - 11:15: Introduction and welcome (Robin Lovelace)
   * 11:15 - 11:25: Demo of `parenx` package for network simplification and visualisation of networks with Python (Will Deakin)
-  * 11:25 - 11:35: Demo of reproducible traffic flow visualisation with R (Juan Pablo Zamora Fonseca)
+  * 11:25 - 11:35: Demo of reproducible traffic flow visualisation with R (Juan Pablo Fonseca Zamora)
   * 11:35 - 11:45: Demonstration of 'core network' generation and visualisation in the Network Planning Tool (Zhao Wang)
   * 11:45 - 11:55: Demonstration of visualisation with MapLibre, with reference to `od2net` and the Network Planning Tool for Scotland (Robin Lovelace)
   * 11:55 - 12:00: Introduction to TGVE and the hackathon (Layik Hama)
