@@ -54,6 +54,18 @@ Although these datasets are available nationally we will provide subsets of them
 # Links to tools and reproducible examples
 
 - [parenx](https://github.com/anisotropi4/parenx)
+- [Extract GB mainline rail data from OpenStreetMap](https://github.com/anisotropi4/magpie)
+- [QGIS data visualisation tool](https://qgis.org)
+- [GB rail centre-line track-model](https://github.com/openraildata/network-rail-gis) with example showing conversion from SHP to GPKG
+- [Project worldpop and Global Human Settlement Layer population data](https://github.com/anisotropi4/puffin) onto a hierachical layers of hexagons
+
+## Data
+- [OpenStreetMap Leeds](https://github.com/anisotropi4/parenx/blob/main/data/osm_leeds.geojson)
+- [OpenStreetMap Princes Street, Edinburgh](https://github.com/anisotropi4/parenx/blob/main/data/osm_leeds.geojson)
+- [Rail network model Doncaster](https://github.com/anisotropi4/parenx/blob/main/data/rnet_doncaster_rail.geojson)
+- [Rail Data Marketplace](https://raildata.org.uk) requires registration
+- [World Population data[(https://hub.worldpop.org/)
+- [Global Human Settlement Layer data[(https://publications.jrc.ec.europa.eu/repository/handle/JRC115586)
 
 # Hack ideas
 
@@ -61,6 +73,7 @@ Although these datasets are available nationally we will provide subsets of them
   - For example `parenx` vs `spgeo`
 - Visualising traffic volumes
 - Visualising traffic speeds and other attributes
+- Visualising population, urbanisation or pollution characteristics
 
 # Outcomes
 
@@ -89,6 +102,6 @@ The pitches will be judged based on the following criteria:
 
 The judges will be:
 
-- Will Deakin (Network Rail, 
+- Will Deakin (Network Rail, Data Digital and Technology IT Delivery)
 - Robin Lovelace (University of Leeds Institution for Transport Studies, Active Travel England)
 - Layik Hama (University of Leeds School of Computer Science)
