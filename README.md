@@ -6,8 +6,8 @@
 This will be an informal hackathon on generating, modelling and
 modifying geographic representations of transport networks.
 
-The hackathon will be held on Thursday 19th September (TBC) from 11:00
-to 17:00.
+The hackathon will be held on Thursday 3rd October (TBC) from 11:00 to
+17:00.
 
 # Aim
 
