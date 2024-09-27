@@ -27,7 +27,7 @@ follows (these can be adjusted on the day):
   - 11:15 - 11:25: Demo of `parenx` package for network simplification
     and visualisation of networks with Python (Will Deakin)
   - 11:25 - 11:35: Demo of reproducible traffic flow visualisation with
-    R (Juan Pablo Zamora Fonseca)
+    R (Juan Pablo Fonseca Zamora)
   - 11:35 - 11:45: Demonstration of ‘core network’ generation and
     visualisation in the Network Planning Tool (Zhao Wang)
   - 11:45 - 11:55: Demonstration of visualisation with MapLibre, with
