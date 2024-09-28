@@ -87,9 +87,9 @@ of them for ease of use:
 - [Rail network model
   Doncaster](https://github.com/anisotropi4/parenx/blob/main/data/rnet_doncaster_rail.geojson)
 - [Rail Data Marketplace](https://raildata.org.uk) requires registration
-- \[World Population data\[(https://hub.worldpop.org/)
-- \[Global Human Settlement Layer
-  data\[(https://publications.jrc.ec.europa.eu/repository/handle/JRC115586)
+- \[World Population data\]https://hub.worldpop.org/)
+- [Global Human Settlement Layer
+  data](https://publications.jrc.ec.europa.eu/repository/handle/JRC115586)
 
 # Hack ideas
 
