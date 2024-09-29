@@ -65,7 +65,7 @@ Although these datasets are available nationally we will provide subsets of them
 - [OpenStreetMap Princes Street, Edinburgh](https://github.com/anisotropi4/parenx/blob/main/data/osm_leeds.geojson)
 - [Rail network model Doncaster](https://github.com/anisotropi4/parenx/blob/main/data/rnet_doncaster_rail.geojson)
 - [Rail Data Marketplace](https://raildata.org.uk) requires registration
-- [World Population data]https://hub.worldpop.org/)
+- [World Population data](https://hub.worldpop.org/)
 - [Global Human Settlement Layer data](https://publications.jrc.ec.europa.eu/repository/handle/JRC115586)
 
 # Hack ideas
