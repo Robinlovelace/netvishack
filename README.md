@@ -6,14 +6,14 @@
 This will be an informal hackathon on generating, modelling and
 modifying geographic representations of transport networks.
 
-The hackathon will be held on Thursday 3rd October from 11:00 to
+The hackathon will be held on Thursday 3rd October (TBC) from 11:00 to
 17:00.
 
 # Aim
 
 The aim of the hackathon is to bring people working on and with an
 interest in visualising transport networks together to develop new and
-evolvingideas, techniques and tools.
+evolving ideas, techniques and tools.
 
 # Agenda
 
@@ -27,7 +27,7 @@ follows (these can be adjusted on the day):
   - 11:15 - 11:25: Demo of `parenx` package for network simplification
     and visualisation of networks with Python (Will Deakin)
   - 11:25 - 11:35: Demo of reproducible traffic flow visualisation with
-    R (Juan Pablo Zamora Fonseca)
+    R (Juan Pablo Fonseca Zamora)
   - 11:35 - 11:45: Demonstration of ‘core network’ generation and
     visualisation in the Network Planning Tool (Zhao Wang)
   - 11:45 - 11:55: Demonstration of visualisation with MapLibre, with
@@ -68,6 +68,28 @@ of them for ease of use:
 # Links to tools and reproducible examples
 
 - [parenx](https://github.com/anisotropi4/parenx)
+- [Extract GB mainline rail data from
+  OpenStreetMap](https://github.com/anisotropi4/magpie)
+- [QGIS data visualisation tool](https://qgis.org)
+- [GB rail centre-line
+  track-model](https://github.com/openraildata/network-rail-gis) with
+  example showing conversion from SHP to GPKG
+- [Project worldpop and Global Human Settlement Layer population
+  data](https://github.com/anisotropi4/puffin) onto a hierachical layers
+  of hexagons
+
+## Data
+
+- [OpenStreetMap
+  Leeds](https://github.com/anisotropi4/parenx/blob/main/data/osm_leeds.geojson)
+- [OpenStreetMap Princes Street,
+  Edinburgh](https://github.com/anisotropi4/parenx/blob/main/data/osm_leeds.geojson)
+- [Rail network model
+  Doncaster](https://github.com/anisotropi4/parenx/blob/main/data/rnet_doncaster_rail.geojson)
+- [Rail Data Marketplace](https://raildata.org.uk) requires registration
+- \[World Population data\]https://hub.worldpop.org/)
+- [Global Human Settlement Layer
+  data](https://publications.jrc.ec.europa.eu/repository/handle/JRC115586)
 
 # Hack ideas
 
@@ -76,6 +98,7 @@ of them for ease of use:
   - For example `parenx` vs `spgeo`
 - Visualising traffic volumes
 - Visualising traffic speeds and other attributes
+- Visualising population, urbanisation or pollution characteristics
 
 # Outcomes
 
@@ -107,7 +130,7 @@ The pitches will be judged based on the following criteria:
 
 The judges will be:
 
-- Will Deakin (Network Rail)
+- Will Deakin (Network Rail, Data Digital and Technology IT Delivery)
 - Robin Lovelace (University of Leeds, Institution for Transport
   Studies, Active Travel England)
 - Layik Hama (University of Leeds, School of Computer Science)
