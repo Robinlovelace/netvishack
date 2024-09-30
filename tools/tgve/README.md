@@ -19,7 +19,7 @@ The Turing Geovisualisation Engine (TGVE) is a web-based, interactive visual ana
 }
 ```
 
-### Visualise geospatial
+### Visualise geospatial data
 The TGVE deployed app here: https://tgve.github.io, can visualise any geospaital data including network data.
 * give it a an accessible dataset from a remote server using the "defaultURL" key, like so:
 https://tgve.github.io/app/?defaultURL=https://raw.githubusercontent.com/layik/eatlas-data/main/casualties_100.geojson
