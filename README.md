@@ -54,7 +54,7 @@ We will use existing input datasets including:
 
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [Ordnance Survey Open
-  Roads](https://www.ordnancesurvey.co.uk/business-and-government/products/os-open-roads.html)
+  Roads](https://www.ordnancesurvey.co.uk/products/os-open-roads)
 - Data from network planning tools, PCT and Network Planning Tool for
   Scotland
 
@@ -87,7 +87,7 @@ of them for ease of use:
 - [Rail network model
   Doncaster](https://github.com/anisotropi4/parenx/blob/main/data/rnet_doncaster_rail.geojson)
 - [Rail Data Marketplace](https://raildata.org.uk) requires registration
-- \[World Population data\]https://hub.worldpop.org/)
+- [World Population data](https://hub.worldpop.org/)
 - [Global Human Settlement Layer
   data](https://publications.jrc.ec.europa.eu/repository/handle/JRC115586)
 

@@ -43,7 +43,7 @@ The rough timings will be as follows (these can be adjusted on the day):
 We will use existing input datasets including:
 
 - [OpenStreetMap](https://www.openstreetmap.org/)
-- [Ordnance Survey Open Roads](https://www.ordnancesurvey.co.uk/business-and-government/products/os-open-roads.html)
+- [Ordnance Survey Open Roads](https://www.ordnancesurvey.co.uk/products/os-open-roads)
 - Data from network planning tools, PCT and Network Planning Tool for Scotland
 
 Although these datasets are available nationally we will provide subsets of them for ease of use:
