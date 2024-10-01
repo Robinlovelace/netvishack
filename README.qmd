@@ -75,6 +75,10 @@ Although these datasets are available nationally we will provide subsets of them
 -   [Rail Data Marketplace](https://raildata.org.uk) requires registration
 -   [World Population data](https://hub.worldpop.org/)
 -   [Global Human Settlement Layer data](https://publications.jrc.ec.europa.eu/repository/handle/JRC115586)
+-   Traffic flows (as points):
+    -   [DfT Road traffic statistics](https://roadtraffic.dft.gov.uk/) (AADF)
+    -   [webTRIS](https://webtris.highwaysengland.co.uk/) (Highways)
+
 
 ## Miscilaneous
 
@@ -120,7 +124,7 @@ The pitches will be judged based on the following criteria:
 The judges will be:
 
 -   Will Deakin (Network Rail, Data Digital and Technology IT Delivery)
--   Robin Lovelace (University of Leeds, Institution for Transport Studies, Active Travel England)
+-   Robin Lovelace (University of Leeds, Institute for Transport Studies, Active Travel England)
 -   Layik Hama (University of Leeds, School of Computer Science)
 
 # Prerequisites
