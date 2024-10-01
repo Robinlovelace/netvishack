@@ -62,3 +62,10 @@ Edge bundling DeckGL layer. Instead of showing a hairball, show an image like th
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/eefab641-d3db-441c-95b4-e6736015ce5a" width="90%">
 </div>
+
+### Hairball?
+Here is NYC [bikedata](https://s3.amazonaws.com/tripdata/index.html) visualised in KeplerGL which is similar to TGVE and very useful to quickly see geospatial data. The hairball is not very useful despite the tool trying to blend the lines with the basemap. The edge bundling would be a better visualisation.
+
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/7dc2cad8-a979-4eb8-868c-750c722f9679" width="90%">
+</div>
