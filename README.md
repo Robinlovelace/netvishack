@@ -99,6 +99,16 @@ of them for ease of use:
 - [Global Human Settlement Layer
   data](https://publications.jrc.ec.europa.eu/repository/handle/JRC115586)
 
+## Miscilaneous
+
+- [cruse.bike](https://www.cruse.bike/) web application and associated
+  open access [paper](https://doi.org/10.1186/s12544-024-00668-8)
+
+![](images/paste-1.png)
+
+- Illustration of network simplification (in-progress open source
+  paper): <https://nptscot.github.io/networkmerge/>
+
 # Hack ideas
 
 - Comparing network simplification tools to support visualisation of
