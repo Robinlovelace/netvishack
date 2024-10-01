@@ -68,6 +68,8 @@ of them for ease of use:
 
 # Links to tools and reproducible examples
 
+## Parenx-related
+
 - [parenx](https://github.com/anisotropi4/parenx)
 - [Extract GB mainline rail data from
   OpenStreetMap](https://github.com/anisotropi4/magpie)
@@ -78,6 +80,11 @@ of them for ease of use:
 - [Project worldpop and Global Human Settlement Layer population
   data](https://github.com/anisotropi4/puffin) onto a hierachical layers
   of hexagons
+
+## R-related
+
+- Code with reproducible code for visualising traffic flow data:
+  https://github.com/juanfonsecaLS1/netvis-trafficflows
 
 ## Data
 
