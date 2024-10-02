@@ -174,7 +174,7 @@ encourage attendees to have a look at.
 # Acknowledgements
 
 This event is organised by LIDA Visualisation Programme. Find out more
-and signup for the mailing list. Thanks to LIDA and ITS but particularly
-to Prof [Roy
+[here](https://lida.leeds.ac.uk/visualisation/) and signup for the
+mailing list. Thanks to LIDA and ITS but particularly to Prof [Roy
 Ruddle](https://eps.leeds.ac.uk/computing/staff/257/professor-roy-ruddle)
 for kicking off the LIDA Visualisation Programme.
