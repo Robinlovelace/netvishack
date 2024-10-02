@@ -98,6 +98,10 @@ of them for ease of use:
 - [World Population data](https://hub.worldpop.org/)
 - [Global Human Settlement Layer
   data](https://publications.jrc.ec.europa.eu/repository/handle/JRC115586)
+- Traffic flows (as points):
+  - [DfT Road traffic statistics](https://roadtraffic.dft.gov.uk/)
+    (AADF)
+  - [webTRIS](https://webtris.highwaysengland.co.uk/) (Highways)
 
 ## Miscilaneous
 
@@ -149,8 +153,8 @@ The pitches will be judged based on the following criteria:
 The judges will be:
 
 - Will Deakin (Network Rail, Data Digital and Technology IT Delivery)
-- Robin Lovelace (University of Leeds, Institution for Transport
-  Studies, Active Travel England)
+- Robin Lovelace (University of Leeds, Institute for Transport Studies,
+  Active Travel England)
 - Layik Hama (University of Leeds, School of Computer Science)
 
 # Prerequisites
@@ -166,3 +170,11 @@ To cover the above, the recommended reading book is
 [`Geocomputation with R`](https://r.geocompx.org/) and
 [`Geocomputation with Python`](https://py.geocompx.org/) which we will
 encourage attendees to have a look at.
+
+# Acknowledgements
+
+This event is organised by LIDA Visualisation Programme. Find out more
+and signup for the mailing list. Thanks to LIDA and ITS but particularly
+to Prof [Roy
+Ruddle](https://eps.leeds.ac.uk/computing/staff/257/professor-roy-ruddle)
+for kicking off the LIDA Visualisation Programme.
