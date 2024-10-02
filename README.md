@@ -166,10 +166,13 @@ We expect you to:
     better results/success it would be great to have `sf` in R and
     `geopandas` in Python
 
-To cover the above, the recommended reading book is
-[`Geocomputation with R`](https://r.geocompx.org/) and
-[`Geocomputation with Python`](https://py.geocompx.org/) which we will
-encourage attendees to have a look at.
+## Recommended reading
+
+We recommend the following resources for those interested in the topic:
+
+- [`Geocomputation with R`](https://r.geocompx.org/), especially the
+  chapter on [transport](https://r.geocompx.org/transport.html)
+- [`Geocomputation with Python`](https://py.geocompx.org/)
 
 # Acknowledgements
 
