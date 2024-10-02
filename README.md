@@ -6,7 +6,8 @@
 This will be an informal hackathon on generating, modelling and
 modifying geographic representations of transport networks.
 
-The hackathon will be held on Thursday 3rd October (TBC) from 11:00 to
+The hackathon will be held on Thursday 3rd October at Institute for
+Transport Studies (34-40, University Road) room 1.11 from 11:00 to
 17:00.
 
 # Aim
@@ -67,6 +68,8 @@ of them for ease of use:
 
 # Links to tools and reproducible examples
 
+## Parenx-related
+
 - [parenx](https://github.com/anisotropi4/parenx)
 - [Extract GB mainline rail data from
   OpenStreetMap](https://github.com/anisotropi4/magpie)
@@ -77,6 +80,11 @@ of them for ease of use:
 - [Project worldpop and Global Human Settlement Layer population
   data](https://github.com/anisotropi4/puffin) onto a hierachical layers
   of hexagons
+
+## R-related
+
+- Code with reproducible code for visualising traffic flow data:
+  https://github.com/juanfonsecaLS1/netvis-trafficflows
 
 ## Data
 
@@ -90,6 +98,16 @@ of them for ease of use:
 - [World Population data](https://hub.worldpop.org/)
 - [Global Human Settlement Layer
   data](https://publications.jrc.ec.europa.eu/repository/handle/JRC115586)
+
+## Miscilaneous
+
+- [cruse.bike](https://www.cruse.bike/) web application and associated
+  open access [paper](https://doi.org/10.1186/s12544-024-00668-8)
+
+![](images/paste-1.png)
+
+- Illustration of network simplification (in-progress open source
+  paper): <https://nptscot.github.io/networkmerge/>
 
 # Hack ideas
 
