@@ -183,3 +183,7 @@ This event is organised by LIDA Visualisation Programme. Find out more
 mailing list. Thanks to LIDA and ITS but particularly to Prof [Roy
 Ruddle](https://eps.leeds.ac.uk/computing/staff/257/professor-roy-ruddle)
 for kicking off the LIDA Visualisation Programme.
+
+To join the LIDA Visualization Mailing list, please fill in this
+[subscription](https://forms.office.com/Pages/ResponsePage.aspx?id=qO3qvR3IzkWGPlIypTW3y5jhSZqudeZJpwi5xjOFh_RURUMxT0QyVFZOQTg4UUJGT1hHQ0lTOTNEMy4u)
+form.
