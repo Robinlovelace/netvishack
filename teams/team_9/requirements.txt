@@ -1,0 +1,9 @@
+streamlit
+ollama
+folium
+geopy
+langchain
+streamlit-folium
+transformers
+torch
+sentencepiece>
