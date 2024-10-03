@@ -121,6 +121,8 @@ of them for ease of use:
 - Visualising traffic volumes
 - Visualising traffic speeds and other attributes
 - Visualising population, urbanisation or pollution characteristics
+- Testing out `od2net` and contributing upstream
+- Contributing to docs on another open project
 
 # Outcomes
 

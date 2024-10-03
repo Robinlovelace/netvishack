@@ -16,7 +16,70 @@ date: last-modified
 bibliography: references.bib
 ---
 
-# Introduction
+# Welcome
+
+## Agenda I
+
+-   11:00 - 12:30: Demo of existing tools and sharing of ideas
+
+    -   11:00 - 11:15: Introduction and welcome (Robin Lovelace)
+    -   11:15 - 11:25: Demo of `parenx` package for network simplification and visualisation of networks with Python (Will Deakin)
+    -   11:25 - 11:35: Demo of reproducible traffic flow visualisation with R (Juan Pablo Fonseca Zamora)
+    -   11:35 - 11:45: Demonstration of 'core network' generation and visualisation in the Network Planning Tool (Zhao Wang)
+    -   11:45 - 11:55: Demonstration of visualisation with MapLibre, with reference to `od2net` and the Network Planning Tool for Scotland (Robin Lovelace)
+
+## Agenda II
+
+```         
+-   11:55 - 12:00: Introduction to TGVE and the hackathon (Layik Hama)
+-   12:00 - 12:15: Q&A of ideas for the hackathon
+```
+
+-   12:15 - 13:00: Lunch and networking
+
+-   13:00 - 16:00: Hackathon
+
+    -   At around 15:00 we will ask teams which teams want to present and take a break
+
+-   16:00 - 17:00: Presentations and discussion
+
+    -   16:00 - 16:40: Presentations
+    -   16:40 - 17:00: Discussion and wrap-up
+
+## The hackathon
+
+See https://github.com/Robinlovelace/netvishack/
+
+![](images/paste-15.png)
+
+## Reproducibility
+
+::: {.panel-tabset group="language"}
+## R
+
+```{r}
+#| echo: true
+library(sf)
+sf::write_sf(spData::world, "world.gpkg")
+plot(spData::world)
+```
+
+## Python
+
+```{python}
+#| echo: true
+import geopandas as gpd
+world = gpd.read_file('world.gpkg')
+world.plot()
+```
+
+## JavaScript
+
+``` bash
+npm install .
+npm run start
+```
+:::
 
 ## Case study for reference
 
@@ -56,9 +119,9 @@ Progressive Web App (PWA)
 
 ![Layer Controls](/images/layer_controls.png)
 
-# Cross-language pain points
+# Tools
 
-## Too many options: IDE
+## IDEs
 
 -   VSCode is market leader with strong community
     -   Pro: many extensions
@@ -73,60 +136,3 @@ Progressive Web App (PWA)
     -   Thought: why didn't they put energy into great extensions for modularity?
 -   RStudio, Jupyter Lab, Zed, ...
 
-## Resource requirements
-
--   Each new environment can take up a few GB of space
--   Lack of shared binaries, could be overcome by pixi and judicious use of Docker containers
--   Headspace requirements of learning new syntax and quirks
-
-# Practicalities
-
-## Interactive session
-
--   What would your top ask be to use multiple languages in a single session?
--   What would you like to see in a shared environment, e.g. pixi (see )
-
-# Bonus: cross-language publishing
-
-## Quickstart: .devcontainer in GitHub codespaces
-
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Robinlovelace/cross_language_projects)
-
-![](images/paste-13.png)
-
-## Cross-language tabsets
-
-```         
-::: {.panel-tabset group="language"}
-...
-:::
-```
-
-![](images/paste-14.png)
-
-## Output
-
-::: {.panel-tabset group="language"}
-
-## R
-
-```{r}
-#| echo: true
-library(sf)
-sf::write_sf(spData::world, "world.gpkg")
-plot(spData::world)
-```
-
-## Python
-
-```{python}
-#| echo: true
-import geopandas as gpd
-world = gpd.read_file('world.gpkg')
-world.plot()
-```
-
-:::
-
-
-# References
