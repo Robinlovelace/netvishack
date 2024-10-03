@@ -1,0 +1,132 @@
+---
+title: Transport network visualisation hackathon
+format: 
+  # revealjs: default
+  clean-revealjs: default
+    # self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Robin Lovelace
+    orcid: 0000-0001-5679-6536
+    email: R dot Lovelace at leeds. ac.uk
+    affiliations: University of Leeds, Active Travel England
+date: last-modified
+bibliography: references.bib
+---
+
+# Introduction
+
+## Case study for reference
+
+::::: columns
+::: {.column width="50%"}
+The Network Planning Tool for Scotland
+
+-   Development version (branch `dev`): [nptscot.github.io](https://nptscot.github.io/)
+-   Stable version (branch `production`): [www.npt.scot](https://www.npt.scot/)
+:::
+
+::: {.column width="50%"}
+![The NPT web app](/images/basemaps.png)
+:::
+:::::
+
+## NPT stack
+
+::::: columns
+::: column
+Backend: R + targets for 'cross-language' data pipeline workflow automation
+
+-   Relies on Rust crates
+-   Experiments with Python
+
+Frontend: JS + MapLibre for visualisation
+
+Progressive Web App (PWA)
+:::
+
+::: column
+![Map controls](/images/map_controls.png)
+:::
+:::::
+
+## User interface
+
+![Layer Controls](/images/layer_controls.png)
+
+# Cross-language pain points
+
+## Too many options: IDE
+
+-   VSCode is market leader with strong community
+    -   Pro: many extensions
+    -   Pro: Live Share
+    -   Pro: GitHub integration (including copilot)
+    -   Pro: devcontainers work out-of-the-box
+    -   Con: setup time, can be intimidating
+-   Positron
+    -   Pro: More batteries included
+    -   Con: Missing great VSCode features (e.g. Live Share)
+    -   Con: Early days, fewer developers
+    -   Thought: why didn't they put energy into great extensions for modularity?
+-   RStudio, Jupyter Lab, Zed, ...
+
+## Resource requirements
+
+-   Each new environment can take up a few GB of space
+-   Lack of shared binaries, could be overcome by pixi and judicious use of Docker containers
+-   Headspace requirements of learning new syntax and quirks
+
+# Practicalities
+
+## Interactive session
+
+-   What would your top ask be to use multiple languages in a single session?
+-   What would you like to see in a shared environment, e.g. pixi (see )
+
+# Bonus: cross-language publishing
+
+## Quickstart: .devcontainer in GitHub codespaces
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Robinlovelace/cross_language_projects)
+
+![](images/paste-13.png)
+
+## Cross-language tabsets
+
+```         
+::: {.panel-tabset group="language"}
+...
+:::
+```
+
+![](images/paste-14.png)
+
+## Output
+
+::: {.panel-tabset group="language"}
+
+## R
+
+```{r}
+#| echo: true
+library(sf)
+sf::write_sf(spData::world, "world.gpkg")
+plot(spData::world)
+```
+
+## Python
+
+```{python}
+#| echo: true
+import geopandas as gpd
+world = gpd.read_file('world.gpkg')
+world.plot()
+```
+
+:::
+
+
+# References
